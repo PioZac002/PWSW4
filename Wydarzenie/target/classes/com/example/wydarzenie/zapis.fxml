@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="nazwaLabel" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="415.0" prefWidth="330.0" stylesheets="@pane.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.wydarzenie.ZapisCrt">
+   <children>
+      <Label layoutX="115.0" layoutY="39.0" text="Wybierz Wydarzenie:" />
+      <Button fx:id="btnZapisz" layoutX="96.0" layoutY="368.0" mnemonicParsing="false" onAction="#onbtnZapiszClick" text="Zapisz się na wydarzenie" />
+      <TextArea fx:id="txtAgenda" layoutX="60.0" layoutY="125.0" prefHeight="110.0" prefWidth="205.0">
+         <font>
+            <Font size="11.0" />
+         </font></TextArea>
+      <Label layoutX="147.0" layoutY="98.0" text="Agenda:" />
+      <Label layoutX="148.0" layoutY="242.0" text="termin:" />
+      <TextField fx:id="txtData" layoutX="126.0" layoutY="266.0" prefHeight="25.0" prefWidth="82.0" />
+      <ChoiceBox fx:id="typChoiceBox" layoutX="18.0" layoutY="327.0" prefHeight="25.0" prefWidth="139.0" />
+      <ChoiceBox fx:id="posilekChoiceBox" accessibleHelp="wybierz opcję" layoutX="167.0" layoutY="327.0" prefHeight="25.0" prefWidth="139.0" />
+      <Label layoutX="42.0" layoutY="304.0" text="typ uczestnictwa:" />
+      <Label layoutX="205.0" layoutY="304.0" text="wyżywienie:" />
+      <ComboBox fx:id="nazwaComboBox" layoutX="16.0" layoutY="66.0" onAction="#odczytAgendy" prefHeight="25.0" prefWidth="294.0" />
+   </children>
+</Pane>

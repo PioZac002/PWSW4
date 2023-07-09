@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="273.0" prefWidth="309.0" stylesheets="@pane.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.wydarzenie.RejestracjaCtr">
+   <children>
+      <Label layoutX="21.0" layoutY="21.0" text="imię:" />
+      <Label layoutX="21.0" layoutY="56.0" text="nazwisko:" />
+      <Label layoutX="21.0" layoutY="86.0" text="login:" />
+      <Label layoutX="21.0" layoutY="116.0" text="hasło:" />
+      <Label layoutX="21.0" layoutY="150.0" text="powtórz hasło:" />
+      <TextField fx:id="txtImie" layoutX="110.0" layoutY="14.0" />
+      <TextField fx:id="txtNazwisko" layoutX="110.0" layoutY="49.0" />
+      <TextField fx:id="txtLogin" layoutX="110.0" layoutY="79.0" />
+      <TextField fx:id="txtPass" layoutX="110.0" layoutY="112.0" />
+      <TextField fx:id="txtPass2" layoutX="110.0" layoutY="145.0" />
+      <Label layoutX="21.0" layoutY="183.0" text="email:" />
+      <TextField fx:id="txtEmail" layoutX="110.0" layoutY="176.0" />
+      <Button fx:id="btnRejestruj" layoutX="153.0" layoutY="225.0" mnemonicParsing="false" onAction="#onbtnRejestrujClick" text="Rejestruj" />
+   </children>
+</Pane>

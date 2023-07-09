@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="sun.mail.pop3" type="repository">
+    <properties maven-id="com.sun.mail:pop3:1.6.4">
+      <exclude>
+        <dependency maven-id="com.sun.mail:mailapi" />
+        <dependency maven-id="com.sun.mail:pop3" />
+      </exclude>
+    </properties>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/activation/jakarta.activation/1.2.1/jakarta.activation-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8838a87c-3857-442d-9ba8-25ce13ca7e25" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NRoOucpl58z68y2o6fBiL4Q4Vr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/marcin.lysak/IdeaProjects/PwSW-Lab4/Wydarzenie",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wojtek\IdeaProjects\Wydarzenie\src\main\java\com\example\wydarzenie" />
+      <recent name="C:\Users\Wojtek\IdeaProjects\Wydarzenie\src\main\resources\com\example\wydarzenie" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WydarzenieApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.wydarzenie.WydarzenieApp" />
+      <module name="Wydarzenie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.wydarzenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8838a87c-3857-442d-9ba8-25ce13ca7e25" name="Changes" comment="" />
+      <created>1679636227320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679636227320</updated>
+      <workItem from="1679636228647" duration="7662000" />
+      <workItem from="1679819631134" duration="2094000" />
+      <workItem from="1680072986505" duration="91000" />
+      <workItem from="1680293891956" duration="3142000" />
+      <workItem from="1680332589247" duration="51000" />
+      <workItem from="1680332694194" duration="53000" />
+      <workItem from="1680332770079" duration="74000" />
+      <workItem from="1680354816246" duration="8097000" />
+      <workItem from="1680419090599" duration="117000" />
+      <workItem from="1680419635364" duration="183000" />
+      <workItem from="1680420254956" duration="20072000" />
+      <workItem from="1680443425782" duration="183000" />
+      <workItem from="1680448587393" duration="5629000" />
+      <workItem from="1680454363316" duration="2637000" />
+      <workItem from="1680462064916" duration="1892000" />
+      <workItem from="1680494953728" duration="1275000" />
+      <workItem from="1680496284858" duration="1322000" />
+      <workItem from="1680497614296" duration="1229000" />
+      <workItem from="1680502801824" duration="179000" />
+      <workItem from="1680503153675" duration="609000" />
+      <workItem from="1680503942288" duration="188000" />
+      <workItem from="1680504602147" duration="205000" />
+      <workItem from="1680506137648" duration="682000" />
+      <workItem from="1680506823442" duration="700000" />
+      <workItem from="1680507604583" duration="276000" />
+      <workItem from="1680507974553" duration="119000" />
+      <workItem from="1680508165717" duration="8703000" />
+      <workItem from="1680517864904" duration="815000" />
+      <workItem from="1680534066417" duration="148000" />
+      <workItem from="1680534584676" duration="3243000" />
+      <workItem from="1680581374814" duration="955000" />
+      <workItem from="1680582654453" duration="23052000" />
+      <workItem from="1680666254207" duration="5238000" />
+      <workItem from="1680672679813" duration="1524000" />
+      <workItem from="1680674246977" duration="448000" />
+      <workItem from="1680674728845" duration="14990000" />
+      <workItem from="1680705684773" duration="76000" />
+      <workItem from="1680705838304" duration="1738000" />
+      <workItem from="1680714169584" duration="8732000" />
+      <workItem from="1680752282439" duration="9588000" />
+      <workItem from="1680769113375" duration="11223000" />
+      <workItem from="1680790367024" duration="1620000" />
+      <workItem from="1680792694762" duration="4783000" />
+      <workItem from="1680805376802" duration="5288000" />
+      <workItem from="1680838755911" duration="8335000" />
+      <workItem from="1680851395091" duration="721000" />
+      <workItem from="1680853058219" duration="41000" />
+      <workItem from="1680865160394" duration="3749000" />
+      <workItem from="1680889465582" duration="898000" />
+      <workItem from="1680894297261" duration="92000" />
+      <workItem from="1680936462064" duration="195000" />
+      <workItem from="1680936710479" duration="509000" />
+      <workItem from="1680950648283" duration="57000" />
+      <workItem from="1680955923961" duration="124000" />
+      <workItem from="1680963780063" duration="4353000" />
+      <workItem from="1680968459111" duration="609000" />
+      <workItem from="1681113220920" duration="3809000" />
+      <workItem from="1681132259040" duration="2777000" />
+      <workItem from="1681135157658" duration="633000" />
+      <workItem from="1681147465397" duration="1720000" />
+      <workItem from="1681149414664" duration="28000" />
+      <workItem from="1681193263967" duration="105000" />
+      <workItem from="1681193616129" duration="124000" />
+      <workItem from="1681810387608" duration="3895000" />
+      <workItem from="1683982272664" duration="21844000" />
+      <workItem from="1684267867323" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/wydarzenie/mySQL.java</url>
+          <line>9</line>
+          <properties field="idEvent" class="com.example.wydarzenie.mySQL" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
